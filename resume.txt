@@ -1,1 +1,2 @@
 This is my resume file.
+Education: B.Tech in Computer Science
